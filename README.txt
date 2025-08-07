@@ -1,0 +1,1 @@
+Полностью рабочая версия с ApplicationBuilder (без Updater).
